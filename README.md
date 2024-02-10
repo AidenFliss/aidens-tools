@@ -1,5 +1,8 @@
 A basic library filled with some useful functions that are sometimes common use in python.
 
+Install with:
+```pip install aidens-basic-tools```
+
 ### Usage:
 ```python
 import tools
